@@ -1,5 +1,5 @@
 
-[Link para a los charts](https://ossified-osiris.vercel.app)
+[Link a los charts](https://ossified-osiris.vercel.app)
 
 
 # todo
