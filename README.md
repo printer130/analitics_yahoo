@@ -1,11 +1,11 @@
 
 # todo
 
-- [ ] Qué ha sucedido en los últimos años a partir del año 2000.
+- [X] Qué ha sucedido en los últimos años a partir del año 2000.
 
-- [ ] Recomendaciones de inversión (ya sea enfocada en empresas o rubros de éstas).
+- [X] Recomendaciones de inversión (ya sea enfocada en empresas o rubros de éstas).
 
-- [ ] Otra información complementaria útil.
+- [X] Otra información complementaria útil.
 
 ## Foco del análisis
 
