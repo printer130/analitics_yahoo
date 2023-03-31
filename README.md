@@ -7,7 +7,7 @@ La empresa desa invertir en finanzas a largo plazo, y correr un riesgo mínimo p
 
 [Info de la inflacion anual (ratio)](https://www.usinflationcalculator.com/inflation/current-inflation-rates/#:~:text=The%20annual%20inflation%20rate%20for,12%20at%208%3A30%20a.m.)
 
-[Anális técnico](https://ossified-osiris.vercel.app)
+[Análisis técnico](https://ossified-osiris.vercel.app)
 
 
 ### 🌐 Análisis general
