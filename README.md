@@ -1,7 +1,14 @@
 
-# Yahoo Finance (API) 🎯
+# Yahoo Finance (API)
 ---
 La empresa desa invertir en finanzas a largo plazo, y correr un riesgo mínimo por una tasa de retorno mayor a la tasa de inflación de Estados Unidos en los últimos 5 años.
+
+### 🎯 Atajos
+
+[Info de la inflacion anual (ratio)](https://www.usinflationcalculator.com/inflation/current-inflation-rates/#:~:text=The%20annual%20inflation%20rate%20for,12%20at%208%3A30%20a.m.)
+
+[Anális técnico](https://ossified-osiris.vercel.app)
+
 
 ### 🌐 Análisis general
 Mostrar una evolución del índice S&P500 en los últimos 23 años echarle un ojo a:
